@@ -47,5 +47,4 @@ The model is designed to take satellite images as input and predict the category
 4. Run `create_model.py` to train the model and save it as `Model.h5`.
 5. Use `run_model.py` to load the trained model and make predictions on new satellite images by changing the image path to your desired satellite image of the right size (255x255 pixels).
 
-## Example Result
-![predictionui](https://github.com/tawsifrm/Satellite-Image-Classification/assets/121325051/9b81522d-7aa5-46af-87d9-22aff9a2e32d)
+
